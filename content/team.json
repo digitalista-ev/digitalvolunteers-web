@@ -1,0 +1,13 @@
+[
+  { "name": "Alexandra", "city": "Berlin", "image": "/images/2022/05/Sascha.jpg" },
+  { "name": "Lena", "city": "Düsseldorf", "image": "/images/2022/05/Lena.jpg" },
+  { "name": "Theodor", "city": "Düsseldorf", "image": "/images/2022/05/Theodor.jpg" },
+  { "name": "Nadiia", "city": "Stuttgart", "image": "/images/2022/05/Nadia.jpg" },
+  { "name": "Grigory", "city": "Nürnberg", "image": "/images/2022/05/Grigory.jpg" },
+  { "name": "Dmitry", "city": "Berlin", "image": "/images/2022/05/Dmitry-1.jpg" },
+  { "name": "Dmitrij", "city": "Haan", "image": "/images/2022/05/Dmitrij.jpg" },
+  { "name": "Polina", "city": "Hannover", "image": "/images/2022/05/Polina.jpg" },
+  { "name": "Marcel", "city": "Berlin", "image": "/images/2022/05/Marcel.jpg" },
+  { "name": "Oksana", "city": "Köln", "image": "/images/2022/05/Oksana.jpg" },
+  { "name": "Victor", "city": "Berlin", "image": "/images/2022/05/Victor.jpg" }
+]

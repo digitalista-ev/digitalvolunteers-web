@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --dv-hero: #22567c;
+  --dv-card: #e0f7fd;
+  --dv-dark: #1e293b;
+}
+
+body {
+  @apply antialiased text-gray-900 bg-white;
+}
