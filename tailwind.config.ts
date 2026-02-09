@@ -14,8 +14,8 @@ export default {
         "dv-dark": "#1e293b",
       },
       fontFamily: {
-        sans: ["var(--font-geist-sans)", "system-ui", "sans-serif"],
-        mono: ["var(--font-geist-mono)", "monospace"],
+        sans: ["Arial", "Helvetica", "sans-serif"],
+        mono: ["monospace"],
       },
     },
   },
