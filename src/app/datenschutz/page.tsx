@@ -3,7 +3,7 @@ import { getDatenschutzContent } from "@/lib/content";
 import ReactMarkdown from "react-markdown";
 
 export const metadata: Metadata = {
-  title: "Datenschutzerklärung | Digital Volunteers",
+  title: "Datenschutzerklärung - Digital Volunteers",
   description: "Datenschutzerklärung – Digital Volunteers",
 };
 

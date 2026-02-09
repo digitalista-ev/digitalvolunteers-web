@@ -3,7 +3,7 @@ import { getImpressumContent } from "@/lib/content";
 import ReactMarkdown from "react-markdown";
 
 export const metadata: Metadata = {
-  title: "Impressum | Digital Volunteers",
+  title: "Impressum - Digital Volunteers",
   description: "Impressum – Digital Volunteers",
 };
 
